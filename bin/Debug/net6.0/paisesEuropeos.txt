@@ -1,0 +1,46 @@
+Albania,Tirana
+Alemania,Berl�n
+Andorra,Andorra la Vieja
+Austria,Viena
+B�lgica,Bruselas
+Bielorrusia,Minsk
+Bosnia-Herzegovina,Sarajevo
+Bulgaria,Sof�a
+Chipre,Nicosia
+Croacia,Zagreb
+Dinamarca,Copenhague
+Eslovaquia,Bratislava
+Eslovenia,Liubliana
+Espa�a,Madrid
+Estonia,Tallin
+Finlandia,Helsinki
+Francia,Par�s
+Grecia,Atenas
+Hungr�a,Budapest
+Irlanda,Dubl�n
+Islandia,Reikiavik
+Italia,Roma
+Kosovo,Pristina
+Letonia,Riga
+Liechtenstein,Vaduz
+Lituania,Vilna
+Luxemburgo,Luxemburgo
+Macedonia,Skopie
+Malta,La Valeta
+Moldavia,Chisin�u
+M�naco,M�naco
+Montenegro,Podgorica
+Noruega,Oslo
+Pa�ses Bajos,�msterdam
+Polonia,Varsovia
+Portugal,Lisboa
+Reino Unido,Londres
+Rep�blica Checa,Praga
+Rumania,Bucarest
+Rusia,Mosc�
+San Marino,San Marino
+Serbia,Belgrado
+Suecia,Estocolmo
+Suiza,Berna
+Ucrania,Kiev
+Vaticano,Vaticano

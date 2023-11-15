@@ -1,0 +1,6 @@
+13/11/2023 17:49:19 - OK - 3
+13/11/2023 17:49:47 - ERROR - Input string was not in a correct format.
+13/11/2023 17:49:54 - OK - 0
+13/11/2023 17:49:57 - ERROR - Input string was not in a correct format.
+13/11/2023 17:50:01 - ERROR - Attempted to divide by zero.
+13/11/2023 17:54:43 - ERROR - Attempted to divide by zero.
